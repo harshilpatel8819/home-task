@@ -67,12 +67,12 @@ If you prefer using Node.js, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/elevator-task.git
+   git clone https://github.com/harshilpatel8819/home-task.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd elevator-task
+   cd home-task
    ```
 3. **Install Dependencies**:
    ```bash
